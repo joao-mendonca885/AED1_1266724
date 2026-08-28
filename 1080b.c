@@ -4,7 +4,8 @@
 
 
 int main(){
-    int v[100];
+    int *v;
+    v = (int *) malloc(100 * sizeof(int));
     int maior, pos;
     int i; 
     for (i=0; i<100; i++){
@@ -22,6 +23,7 @@ int main(){
     }
     printf("%d\n", maior);
     printf("%d\n", pos+1);
+    free(v);
     return 0;
 }
 
