@@ -1,7 +1,14 @@
 #include <stdio.h>
-// problema do sudoko 1383 do beecrowd
- /*your task is to write a program that 
- checks whether a filled matrix is a solution to the puzzle or not.*/ 
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : João Victor Cardoso Mendonça
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1080
+Data        : Nao lembro
+Objetivo    : Ver se o Sudoku está correto.
+Dificuldade : Alinhar os 4 fors na função teste_blocos.
+Uso de IA   : Ajudou com a função teste_blocos.
+-------------------------------------------------------------------------- */ 
 int linha_ou_coluna_esta_errada(int v[]){
     for (int i =0; i<9; i++){
         if (v[i] != 1) return 1;

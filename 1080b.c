@@ -1,5 +1,14 @@
 #include <stdio.h>
-
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : João Victor Cardoso Mendonça
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1080
+Data        : Nao lembro
+Objetivo    : Maior elemento de um vetor.
+Dificuldade : Nenhuma especial.
+Uso de IA   : Nada
+-------------------------------------------------------------------------- */
 
 
 
