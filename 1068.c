@@ -2,7 +2,7 @@
 Disciplina  : Algortimo e Estrutura de Dados 2026S1
 Nome        : João Victor Cardoso Mendonça
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/1110
+Problema    : https://judge.beecrowd.com/pt/problems/view/1068
 Data        : 05/09/2026
 Objetivo    : Cartas descartadas e cartas restantes.
 Dificuldade : linha 40, não sabia como implementar o EOF. Linha 35, estava retornando 1 ao invés de j == 0.

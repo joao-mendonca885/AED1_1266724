@@ -4,7 +4,7 @@
 Disciplina  : Algortimo e Estrutura de Dados 2026S1
 Nome        : João Victor Cardoso Mendonça
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/1080
+Problema    : https://judge.beecrowd.com/pt/problems/view/1383
 Data        : Nao lembro
 Objetivo    : Ver se o Sudoku está correto.
 Dificuldade : Alinhar os 4 fors na função teste_blocos.
