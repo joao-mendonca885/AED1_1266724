@@ -26,7 +26,7 @@ typedef struct{
 }fila;
 
 int desenfileira(fila *f){
-    celula *lixo = f->inicio;
+    celula *lixo = f->inicio; 
     int valor = lixo->conteudo;
     f->inicio = f->inicio->seg; // o inicio passa a ser o próximo elemento da lista
     if (f->inicio == NULL) f->fim = NULL; // se a lista ficar vazia, fim aponta para NULL
